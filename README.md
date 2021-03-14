@@ -1,7 +1,5 @@
 # Opencart3-popup-module
-Модуль всплывающих сообщений для opencart3 с ограничением по дате действия.
-
-Бэкенд часть.
+The pop-up messaging module for OpenCart3 with a limit by date of action.
 
 Отдает JSON данные по /index.php?route=extension/module/popups
 
